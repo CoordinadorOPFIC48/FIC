@@ -1,0 +1,6 @@
+cd ruta/a/tu/carpeta/jerarquizacion-espacios
+git init
+git remote add origin https://github.com/TU_USUARIO/jerarquizacion-espacios.git
+git add .
+git commit -m "Primer commit"
+git push -u origin master
