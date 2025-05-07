@@ -1,4 +1,4 @@
-cd ruta/a/tu/carpeta/jerarquizacion-espacios
+cd C:\Users\ADMIN\Desktop\jerarquizacion-espacios
 git init
 git remote add origin https://github.com/CoordinadorOPFIC48/jerarquizacion-espacios.git
 git add .
